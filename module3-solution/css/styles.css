@@ -35,10 +35,6 @@ body {
     background-color: black;
 }
 
-.navbar-default .navbar-collapse, .navbar-default .navbar-form {
-    border-top: 1.5px solid black;
-}
-
 #nav-list a {
     color: black;
     text-align: center;
